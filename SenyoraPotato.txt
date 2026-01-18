@@ -2,3 +2,4 @@ cuerpo
 cabeza
 brazo derecho
 brazo izquierdo
+pechos
